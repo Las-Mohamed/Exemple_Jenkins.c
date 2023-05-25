@@ -2,5 +2,5 @@
 
 int main (){
 	printf("Voila ca marche\n");
-	printf("Update traitée\n");
+// printf("Update traitée\n");
 }
